@@ -3,4 +3,5 @@
 
 ## Sample Results
 1. Word Cloud
-2. Heat Map 
+2. t-SNE Visualisation of LDA Generated Topics
+3. Heat Map 
