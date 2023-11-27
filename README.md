@@ -10,17 +10,14 @@ It has two columns
   1. publish_date: date headline was published in yyyyMMdd format
   2. headline_text: Headline Text in ASCII English Lowercase
 ## Sample Results
-1. Word Cloud
+### Word Cloud
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/30c8082d-b3ff-401b-ae2d-3aef237ec682)
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/314e28ee-00d8-4246-9fe3-68841fc85495)
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/76f07f7e-cfb6-4b3d-a50c-b96aa352c3d9)
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/49a32442-5444-462d-b9dc-e5f22898548f)
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/c7bd66d3-4c24-47d5-9ac7-5f35d0fdfa08)
-
-
-3. t-SNE Visualisation of LDA Generated Topics
+### t-SNE Visualisation of LDA Generated Topics
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/2b6d6047-52a7-4311-b27d-8eb1623bce55)
-
-5. Heat Map
+### Heat Map
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/946ddfe4-be2c-4007-8acf-ef8b3595df27)
 
