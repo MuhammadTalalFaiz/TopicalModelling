@@ -9,10 +9,7 @@ Format: CSV Single File
 It has two columns
   1. publish_date: date headline was published in yyyyMMdd format
   2. headline_text: Headline Text in ASCII English Lowercase
-### Group Members
-1. Muhammad Talal Faiz
-2. Muhammad Uzair Khan
-3. Umar Tariq
+Link: https://www.kaggle.com/datasets/therohk/million-headlines
 ## Sample Results
 ### Word Cloud
    ![image](https://github.com/MuhammadTalalFaiz/TopicalModelling/assets/97730886/30c8082d-b3ff-401b-ae2d-3aef237ec682)
