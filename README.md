@@ -9,6 +9,7 @@ Format: CSV Single File
 It has two columns
   1. publish_date: date headline was published in yyyyMMdd format
   2. headline_text: Headline Text in ASCII English Lowercase
+
 Link: https://www.kaggle.com/datasets/therohk/million-headlines
 ## Sample Results
 ### Word Cloud
